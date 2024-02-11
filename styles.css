@@ -1,5 +1,7 @@
 /* styles.css */
 
+
+/* bullet point sizes */
 li {
   font-family:'Times New Roman', Times, serif;
   font-size: 14px;
@@ -7,4 +9,27 @@ li {
 
 .main {
   font-size: 20px;
+}
+
+/* title styles */
+h1 {
+  font-size: 36px;
+}
+
+.smoothie,
+.mac_and_cheese,
+.pb_j {
+  color: white;
+}
+
+.smoothie {
+  background-color: darkorange;
+}
+
+.mac_and_cheese {
+  background-color: goldenrod;
+}
+
+.pb_j {
+  background-color: blueviolet;
 }
