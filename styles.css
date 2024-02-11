@@ -2,5 +2,9 @@
 
 li {
   font-family:'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-size: 14px;
+}
+
+.main {
+  font-size: 20px;
 }
