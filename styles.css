@@ -23,16 +23,24 @@ li {
 .mac_and_cheese,
 .pb_j {
   color: white;
+  font-size: 30px;
+  padding: 5px;
+  border: 2px;
+  width: 300px;
+  text-align: center;
 }
 
 .smoothie {
   background-color: darkorange;
+  border: solid orange;
 }
 
 .mac_and_cheese {
   background-color: goldenrod;
+  border: solid gold;
 }
 
 .pb_j {
   background-color: blueviolet;
+  border: solid violet;
 }
