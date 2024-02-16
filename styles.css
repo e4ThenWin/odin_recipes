@@ -1,13 +1,7 @@
 /* styles.css */
 
-
-li {
-  font-family:'Times New Roman', Times, serif;
-  font-size: 14px;
-}
-
-.main {
-  font-size: 20px;
+.box {
+  box-sizing: border-box;
 }
 
 .title {
@@ -16,6 +10,17 @@ li {
   background-color: darkblue;
   color: white;
   border: 2px solid blue;
+  width: 300px;
+  height: auto;
+}
+
+li {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+
+.main {
+  font-size: 20px;
 }
 
 .smoothie,
