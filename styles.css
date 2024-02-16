@@ -30,16 +30,19 @@ li {
   text-align: center;
 }
 
+.smoothie_pic,
 .smoothie {
   background-color: darkorange;
   border: solid orange;
 }
 
+.mac_and_cheese_pic,
 .mac_and_cheese {
   background-color: goldenrod;
   border: solid gold;
 }
 
+.pb_j_pic,
 .pb_j {
   background-color: blueviolet;
   border: solid violet;
